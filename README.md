@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParulDudeja.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning SASS, React, Node.js.
-- 💞️ I’m looking to collaborate on learning together.
+- 💞️ I’m looking to work as Web Developer. :)
 - 📫 Reach me at paruldudeja93@gmail.com
 
 <!---
